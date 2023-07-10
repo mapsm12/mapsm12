@@ -1,6 +1,6 @@
 <!-- Encabezado -->
 <h1 align="center">¡Hola! Soy Miguel </h1>
-<h3 align="center">Estudiante de Física | Desarrollador Apasionado</h3>
+<h3 align="center">Físico | Desarrollador Apasionado</h3>
 
 <!-- Iconos de redes sociales -->
 <p align="center">
