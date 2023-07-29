@@ -10,7 +10,7 @@
 
 <!-- Descripción -->
 <p align="center">
-  ¡Bienvenido(a) a mi perfil de GitHub! Soy Físico con experiencia en Modelamiento Oceánico y  desarrollo de software  y también poseo una formación técnica en computación e informática. Me apasiona la aplicación de la programación en la ciencia y cuento con habilidades en varios lenguajes de programación.
+  ¡Bienvenido(a) a mi perfil de GitHub! Soy Físico con experiencia en Modelamiento Oceánico, Astronomia y  desarrollo de software  y también poseo una formación técnica en computación e informática. Me apasiona la aplicación de la programación en la ciencia y cuento con habilidades en varios lenguajes de programación.
 </p>
 
 <!-- Habilidades -->
