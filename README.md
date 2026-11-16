@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 Sobre mí
-Soy Miguel Andrade, Físico con Maestría en Geofísica (UNMSM), Ingeniero Meteorólogo y Desarrollador de software orientado a aplicaciones científicas. Trabajo como Research Assistant en el Instituto Geofísico del Perú (IGP), especializándome en interacciones océano–atmósfera y modelamiento numérico de sistemas ambientales. Me apasiona aplicar programación y metodologías avanzadas de análisis de datos a problemas de climatología, oceanografía y salud ambiental.
+Soy Miguel Andrade, Físico con Maestría en Geofísica (UNMSM),  Desarrollador de software orientado a aplicaciones científicas. Trabajo como Research Assistant en el Instituto Geofísico del Perú (IGP), especializándome en interacciones océano–atmósfera y modelamiento numérico de sistemas ambientales. Me apasiona aplicar programación y metodologías avanzadas de análisis de datos a problemas de climatología, oceanografía y salud ambiental.
 
 - 📍 Lima, Perú
 - 📧 mandrade@igp.gob.pe
